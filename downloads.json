@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T18:49:26.475Z",
-  "attemptedAt": "2026-10-16T18:49:26.475Z",
+  "updatedAt": "2026-10-16T22:06:28.372Z",
+  "attemptedAt": "2026-10-16T22:06:28.372Z",
   "source": "github-release-assets",
   "counts": {
     "Cortex DL": 228,
@@ -12,10 +12,10 @@
   "stale": false,
   "errors": [],
   "checkedAt": {
-    "Cortex DL": "2026-10-16T18:49:26.475Z",
-    "Cortex Files": "2026-10-16T18:49:26.475Z",
-    "Cortex FX": "2026-10-16T18:49:26.475Z",
-    "Cortex QR": "2026-10-16T18:49:26.475Z"
+    "Cortex DL": "2026-10-16T22:06:28.372Z",
+    "Cortex Files": "2026-10-16T22:06:28.372Z",
+    "Cortex FX": "2026-10-16T22:06:28.372Z",
+    "Cortex QR": "2026-10-16T22:06:28.372Z"
   },
   "ledgers": {
     "Cortex DL": {
@@ -84,7 +84,7 @@
     },
     {
       "week": "2026-10-12",
-      "updatedAt": "2026-10-16T18:49:26.475Z",
+      "updatedAt": "2026-10-16T22:06:28.372Z",
       "counts": {
         "Cortex DL": 228,
         "Cortex Files": 59,
