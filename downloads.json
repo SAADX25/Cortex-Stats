@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-05T06:50:05.678Z",
-  "attemptedAt": "2026-11-05T06:50:05.678Z",
+  "updatedAt": "2026-11-05T15:29:04.133Z",
+  "attemptedAt": "2026-11-05T15:29:04.133Z",
   "source": "github-release-assets",
   "counts": {
-    "Cortex DL": 254,
-    "Cortex Files": 60,
-    "Cortex FX": 20,
+    "Cortex DL": 255,
+    "Cortex Files": 62,
+    "Cortex FX": 21,
     "Cortex QR": 2
   },
-  "total": 336,
+  "total": 340,
   "stale": false,
   "errors": [],
   "checkedAt": {
-    "Cortex DL": "2026-11-05T06:50:05.678Z",
-    "Cortex Files": "2026-11-05T06:50:05.678Z",
-    "Cortex FX": "2026-11-05T06:50:05.678Z",
-    "Cortex QR": "2026-11-05T06:50:05.678Z"
+    "Cortex DL": "2026-11-05T15:29:04.133Z",
+    "Cortex Files": "2026-11-05T15:29:04.133Z",
+    "Cortex FX": "2026-11-05T15:29:04.133Z",
+    "Cortex QR": "2026-11-05T15:29:04.133Z"
   },
   "ledgers": {
     "Cortex DL": {
@@ -40,19 +40,19 @@
         "618712022": 8,
         "618915212": 24,
         "639949384": 25,
-        "696525481": 6
+        "696525481": 7
       },
       "baseline": 0,
-      "total": 254
+      "total": 255
     },
     "Cortex Files": {
       "assets": {
         "367493751": 10,
         "377803344": 5,
-        "380567238": 45
+        "380567238": 47
       },
       "baseline": 0,
-      "total": 60
+      "total": 62
     },
     "Cortex FX": {
       "assets": {
@@ -61,10 +61,10 @@
         "598025715": 3,
         "662996075": 2,
         "682266659": 2,
-        "693600301": 4
+        "693600301": 5
       },
       "baseline": 0,
-      "total": 20
+      "total": 21
     },
     "Cortex QR": {
       "assets": {
@@ -121,14 +121,14 @@
     },
     {
       "week": "2026-11-02",
-      "updatedAt": "2026-11-05T06:50:05.678Z",
+      "updatedAt": "2026-11-05T15:29:04.133Z",
       "counts": {
-        "Cortex DL": 254,
-        "Cortex Files": 60,
-        "Cortex FX": 20,
+        "Cortex DL": 255,
+        "Cortex Files": 62,
+        "Cortex FX": 21,
         "Cortex QR": 2
       },
-      "total": 336
+      "total": 340
     }
   ]
 }
